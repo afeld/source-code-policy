@@ -31,7 +31,7 @@ Considerations regarding releasing custom code as Open Source Software include:
     <li>Is there an alternative approach that OMB should consider?</li>
   </ul>
 
-  <li>What are the advantages and disadvantages associated with implementing this type of pilot program? To what extent could this policy have an effect on the software development market? For example, could such a policy increase or decrease competition among vendors, dollar amounts bid on Federal contracts, or total life-cycle cost to the Federal Government? How could it impact new products developed or transparency in quality of vendor-produced code?</li>
+  <li>What are the advantages and disadvantages associated with implementing this type of pilot program? To what extent could this policy have an effect on the software development market? For example, could such a policy increase or decrease competition among vendors, dollar amounts bid on Federal contracts, re-use across government, or total life-cycle cost to the Federal Government? How could it impact new products developed or transparency in quality of vendor-produced code?</li>
 
   <li>What metrics should be used to determine the impact and effectiveness of the pilot proposed in this draft policy, and of an open source policy more generally?</li>
 
